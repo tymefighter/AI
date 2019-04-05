@@ -10,6 +10,13 @@ import math
 
 """
 
+"""
+
+There file has multiple errors as of now,
+It has to be updated to account for them.
+
+"""
+
 def print_mat(a):
 
     for row in a:
